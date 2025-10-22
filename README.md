@@ -78,6 +78,9 @@ A comprehensive web application that tests email deliverability across major ema
    SMTP_PASS=your_smtp_app_password
    ```
 
+   ## change respective urls when running application locally
+   
+
 4. **Start the application**
    ```bash
    # Backend (from backend directory)
@@ -128,9 +131,6 @@ For security, use App Passwords instead of regular passwords:
 4. Push to the branch
 5. Create a Pull Request
 
-##  License
-
-This project is licensed under the MIT License.
 
 ##  Support
 
