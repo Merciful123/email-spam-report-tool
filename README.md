@@ -14,7 +14,7 @@ A comprehensive web application that tests email deliverability across major ema
 - **Multi-Provider Testing** - Test across Gmail, Outlook, and Yahoo simultaneously
 - **Real-Time Analysis** - Automatic email detection and folder classification
 - **Detailed Reports** - Comprehensive deliverability scores and insights
-- **Shareable Results** - Generate shareable report links
+- **Shareable Results** - Generate shareable report links(EXPORT PDF IS NOT WORKING YET, I AM WORKING ON IT)
 - **Email Notifications** - Get notified when analysis is complete
 
 ##  Tech Stack
