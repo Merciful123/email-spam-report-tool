@@ -1,4 +1,4 @@
-# 📧 Email Deliverability Testing Tool
+#  Email Deliverability Testing Tool
 
 A comprehensive web application that tests email deliverability across major email providers (Gmail, Outlook, Yahoo) to help you understand where your emails land - inbox, spam, or other folders.
 
