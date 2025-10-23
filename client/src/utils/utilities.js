@@ -1,0 +1,1 @@
+export const baseUrl = "http://enrich-backend-regp.onrender.com"
